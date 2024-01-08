@@ -1,0 +1,131 @@
+<?php
+$priceModel = $block->getPriceType('regular_price');
+$finalPriceModel = $block->getPriceType('final_price');
+$idSuffix = $block->getIdSuffix() ? $block->getIdSuffix() : '';
+$schema = ($block->getZone() == 'item_view') ? true : false;
+$myhelper = $this->helper('Magecomp\Discountpercentage\Helper\Data');
+?>
+
+<?php if ($myhelper->isActive()): ?>
+    <b class="magecomp-discount" style="color:#008000"></b>
+    <span class="normal-price">
+    <?=  $block->renderAmount($finalPriceModel->getAmount(), [
+        'display_label' => __('As low as'),
+        'price_id' => $block->getPriceId('product-price-' . $idSuffix),
+        'price_type' => 'finalPrice',
+        'include_container' => true,
+        'schema' => $schema,
+    ]);
+    ?>
+    </span>
+
+    <?php if (!$block->isProductList() && $block->hasSpecialPrice()): ?>
+        <span class="old-price sly-old-price no-display">
+            <?= /* @noEscape */ $block->renderAmount($priceModel->getAmount(), [
+                'display_label'     => __('Regular Price'),
+                'price_id'          => $block->getPriceId('old-price-' . $idSuffix),
+                'price_type'        => 'oldPrice',
+                'include_container' => true,
+                'skip_adjustments'  => true
+            ]); ?>
+        </span>
+    <?php endif; ?>
+
+    <?php if ($block->showMinimalPrice()): ?>
+        <?php if ($block->getUseLinkForAsLowAs()):?>
+            <a href="<?= $block->escapeUrl($block->getSaleableItem()->getProductUrl()) ?>" class="minimal-price-link">
+                <?= /* @noEscape */ $block->renderAmountMinimal() ?>
+            </a>
+        <?php else:?>
+            <span class="minimal-price-link">
+                <?= /* @noEscape */ $block->renderAmountMinimal() ?>
+            </span>
+        <?php endif?>
+    <?php endif; ?>
+
+<?php else: ?>
+    <span class="normal-price">
+    <?= /* @noEscape */ $block->renderAmount($finalPriceModel->getAmount(), [
+        'display_label' => __('As low as'),
+        'price_id' => $block->getPriceId('product-price-' . $idSuffix),
+        'price_type' => 'finalPrice',
+        'include_container' => true,
+        'schema' => $schema,
+    ]);
+    ?>
+    </span>
+
+    <?php if (!$block->isProductList() && $block->hasSpecialPrice()): ?>
+        <span class="old-price sly-old-price no-display">
+            <?= /* @noEscape */ $block->renderAmount($priceModel->getAmount(), [
+                'display_label'     => __('Regular Price'),
+                'price_id'          => $block->getPriceId('old-price-' . $idSuffix),
+                'price_type'        => 'oldPrice',
+                'include_container' => true,
+                'skip_adjustments'  => true
+            ]); ?>
+        </span>
+    <?php endif; ?>
+
+    <?php if ($block->showMinimalPrice()): ?>
+        <?php if ($block->getUseLinkForAsLowAs()):?>
+            <a href="<?= $block->escapeUrl($block->getSaleableItem()->getProductUrl()) ?>" class="minimal-price-link">
+                <?= /* @noEscape */ $block->renderAmountMinimal() ?>
+            </a>
+        <?php else:?>
+            <span class="minimal-price-link">
+                <?= /* @noEscape */ $block->renderAmountMinimal() ?>
+            </span>
+        <?php endif?>
+    <?php endif; ?>
+<?php endif; ?>
+<script>
+    require(['jquery','mage/url'], function($,url)
+    {
+        $(window).on('load', function(){
+            $(".product-options-wrapper div").on("click", function() {
+                selpro();
+            });
+        });
+
+        function selpro () {  
+        var checkoptiontype = $(".product-options-wrapper div").hasClass("swatch-opt");
+
+       if(checkoptiontype == true){
+
+        var simple_product = window.localStorage.getItem('currentproducttireprice');
+          $.ajax({
+                    url: url.build('magecomp_discountpercentage/ajax/getsimpleproduct'),
+                    type: 'post',
+                    data: {'simpleproductid': simple_product},
+                    dataType: 'json',
+                    success: function (data) {
+                        $(".magecomp-discount").text(data.displaypercentage);                      
+                    },
+                    error: function (error) {
+                        console.log(error);
+                    }
+                });
+        }else{
+           var simple_product = $("input[name=selected_configurable_option]").val();
+           $.ajax({
+                    url: url.build('magecomp_discountpercentage/ajax/getsimpleproduct'),
+                    type: 'post',
+                    data: {'simpleproductid': simple_product},
+                    dataType: 'json',
+                    success: function (data) {
+                        $(".magecomp-discount").text(data.displaypercentage);                      
+                    },
+                    error: function (error) {
+                        console.log(error);
+                    }
+                });
+
+           
+        }
+            
+        }
+        
+    });
+</script>
+

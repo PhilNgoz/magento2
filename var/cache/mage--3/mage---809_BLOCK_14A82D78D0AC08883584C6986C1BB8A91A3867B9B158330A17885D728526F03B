@@ -1,0 +1,955 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1704644474;s:6:"expire";i:1704730874;s:4:"tags";s:33:"809_CAT_P,809_BLOCK_HTML,809_MAGE";}
+
+        <div style="margin-bottom: 0;" class="owl-button-top top-margin bottom-margin above-padding below-padding block widget block-new-products grid">
+        <div class="title-block">
+            <strong role="heading" aria-level="2"><span>New Products</span></strong>
+        </div>
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <div class="slider-outer">
+                    <ol style="margin-bottom: 0;" class="product-widget-slider products list items product-items widget-new-grid">
+                                                                            <li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/accessories-set.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-337">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//h/m/hmgoepprod_1_1.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Accessories&#x20;Set"/></span>
+</span>
+<style>.product-image-container-337 {
+    width: 350px;
+}
+.product-image-container-337 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-337");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-337  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":337,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"337","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Accessories Set"
+                                           href="http://gentlement147.magento.com/accessories-set.html"
+                                           class="product-item-link">
+                                               Accessories Set                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="337" data-price-box="product-id-337"><div class="price-box">
+        <p class="minimal-price">
+        <span class="price-label">Starting at</span>
+
+<span class="price-container tax&#x20;weee"
+        >
+        <span                 data-price-amount="10.8"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$10.80</span></span>
+        </span>
+    </p>
+    </div>
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/337\/","data":{"product":"337","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/winter-combo.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-336">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//s/a/sada.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Winter&#x20;Bundle"/></span>
+</span>
+<style>.product-image-container-336 {
+    width: 350px;
+}
+.product-image-container-336 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-336");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-336  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":336,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"336","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Winter Bundle"
+                                           href="http://gentlement147.magento.com/winter-combo.html"
+                                           class="product-item-link">
+                                               Winter Bundle                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="336" data-price-box="product-id-336">
+            <p class="price-from">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">From</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="10.26"
+        data-price-type="minPrice"
+        class="price-wrapper "
+    ><span class="price">$10.26</span></span>
+        </span>
+                            <span class="old-price">
+                    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="12"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$12.00</span></span>
+        </span>
+                </span>
+                    </p>
+        <p class="price-to">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">To</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="50.45"
+        data-price-type="maxPrice"
+        class="price-wrapper "
+    ><span class="price">$50.45</span></span>
+        </span>
+                            <span class="old-price">
+                    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="59"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$59.00</span></span>
+        </span>
+                </span>
+                    </p>
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/336\/","data":{"product":"336","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/hoodie-capture.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-335">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//s/u/supp.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Hoodie&#x20;capture"/></span>
+</span>
+<style>.product-image-container-335 {
+    width: 350px;
+}
+.product-image-container-335 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-335");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-335  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":335,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"335","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Hoodie capture"
+                                           href="http://gentlement147.magento.com/hoodie-capture.html"
+                                           class="product-item-link">
+                                               Hoodie capture                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="335" data-price-box="product-id-335">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-335-widget-new-grid"                data-price-amount="10.8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.80</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-335-widget-new-grid"                data-price-amount="12"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$12.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/335\/","data":{"product":"335","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/winter-jacket.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-334">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//h/m/hmgoepprod_7_.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Winter&#x20;Jacket"/></span>
+</span>
+<style>.product-image-container-334 {
+    width: 350px;
+}
+.product-image-container-334 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-334");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-334  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":334,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"334","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Winter Jacket"
+                                           href="http://gentlement147.magento.com/winter-jacket.html"
+                                           class="product-item-link">
+                                               Winter Jacket                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="334" data-price-box="product-id-334">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-334-widget-new-grid"                data-price-amount="18.9"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$18.90</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-334-widget-new-grid"                data-price-amount="21"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$21.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/334\/","data":{"product":"334","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/jogger-pants.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-333">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//s/a/sadsadsa_1.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Jogger&#x20;pants"/></span>
+</span>
+<style>.product-image-container-333 {
+    width: 350px;
+}
+.product-image-container-333 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-333");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-333  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":333,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"333","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Jogger pants"
+                                           href="http://gentlement147.magento.com/jogger-pants.html"
+                                           class="product-item-link">
+                                               Jogger pants                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="333" data-price-box="product-id-333">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-333-widget-new-grid"                data-price-amount="10.8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.80</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-333-widget-new-grid"                data-price-amount="12"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$12.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/333\/","data":{"product":"333","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/another-cap.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-331">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//h/m/hmgoepprod_5_.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Another&#x20;Cap"/></span>
+</span>
+<style>.product-image-container-331 {
+    width: 350px;
+}
+.product-image-container-331 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-331");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-331  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":331,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"331","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Another Cap"
+                                           href="http://gentlement147.magento.com/another-cap.html"
+                                           class="product-item-link">
+                                               Another Cap                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="331" data-price-box="product-id-331">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-331-widget-new-grid"                data-price-amount="12.6"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$12.60</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-331-widget-new-grid"                data-price-amount="14"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$14.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/331\/","data":{"product":"331","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/another-belt.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-330">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//h/m/hmgoepprod_2_.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Another&#x20;belt"/></span>
+</span>
+<style>.product-image-container-330 {
+    width: 350px;
+}
+.product-image-container-330 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-330");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-330  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":330,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"330","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Another belt"
+                                           href="http://gentlement147.magento.com/another-belt.html"
+                                           class="product-item-link">
+                                               Another belt                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="330" data-price-box="product-id-330">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-330-widget-new-grid"                data-price-amount="10"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.00</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-330-widget-new-grid"                data-price-amount="12"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$12.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/330\/","data":{"product":"330","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/belt.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-329">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//z/a/zaz.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Belt"/></span>
+</span>
+<style>.product-image-container-329 {
+    width: 350px;
+}
+.product-image-container-329 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-329");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-329  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":329,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"329","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Belt"
+                                           href="http://gentlement147.magento.com/belt.html"
+                                           class="product-item-link">
+                                               Belt                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="329" data-price-box="product-id-329">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-329-widget-new-grid"                data-price-amount="10.8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.80</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-329-widget-new-grid"                data-price-amount="12"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$12.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/329\/","data":{"product":"329","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/cross-body-bag.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-328">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//h/m/hmgoepprod_1.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Cross&#x20;body&#x20;bag"/></span>
+</span>
+<style>.product-image-container-328 {
+    width: 350px;
+}
+.product-image-container-328 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-328");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-328  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":328,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"328","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Cross body bag"
+                                           href="http://gentlement147.magento.com/cross-body-bag.html"
+                                           class="product-item-link">
+                                               Cross body bag                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="328" data-price-box="product-id-328">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-328-widget-new-grid"                data-price-amount="10.8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.80</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-328-widget-new-grid"                data-price-amount="12"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$12.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/328\/","data":{"product":"328","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://gentlement147.magento.com/cases.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-327">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://gentlement147.magento.com/media/catalog/product//h/m/hmgoepprod_6_.jpg?width=350&amp;height=415&amp;store=default&amp;image-type=small_image"
+            loading="lazy"
+            width="350"
+            height="415"
+            alt="Cases"/></span>
+</span>
+<style>.product-image-container-327 {
+    width: 350px;
+}
+.product-image-container-327 span.product-image-wrapper {
+    padding-bottom: 118.57142857143%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-327");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-327  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "118.57142857143%";
+}</script>                                                                            </a>
+                                                                            <div class="product actions product-item-actions">
+                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/wishlist\/index\/add\/","data":{"product":327,"uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/gentlement147.magento.com\/catalog\/product_compare\/add\/","data":{"product":"327","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Cases"
+                                           href="http://gentlement147.magento.com/cases.html"
+                                           class="product-item-link">
+                                               Cases                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="327" data-price-box="product-id-327">            <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-327-widget-new-grid"                data-price-amount="11.7"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$11.70</span></span>
+        </span>
+    </span>
+        <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-327-widget-new-grid"                data-price-amount="13"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$13.00</span></span>
+        </span>
+    </span>
+    
+    </div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/gentlement147.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v\/product\/327\/","data":{"product":"327","uenc":"aHR0cDovL2dlbnRsZW1lbnQxNDcubWFnZW50by5jb20v"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                               
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script type="text/javascript" xml="space">
+        require(['jquery', 'shopkartliteowlcarousel'], function () {
+            jQuery(document).ready(function () {
+                jQuery(".product-widget-slider").owlCarousel({
+                    items: 4,
+                    itemsDesktop: [1199, 4],
+                    itemsDesktopSmall: [991, 3],
+                    itemsTablet: [767, 3],
+                    itemsTabletSmall: [639, 3],
+                    itemsMobile: [479, 2],
+                    pagination: false,
+                    navigationText: ["<div class='left-arrow'><i class='fa fa-arrow-left'></i></div>", "<div class='right-arrow'><i class='fa fa-arrow-right'></div>"],
+                    navigation: true,
+                });
+                jQuery('.product-widget-slider .product-slider').show();
+            });
+        });
+    </script>

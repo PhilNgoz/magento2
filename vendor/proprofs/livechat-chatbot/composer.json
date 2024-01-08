@@ -1,0 +1,19 @@
+  {
+    "name": "proprofs/livechat-chatbot",
+    "description": "A module that adds ProProfs Chat",
+    "type": "magento2-module",
+    "version": "1.0.3",
+    "license": [
+      "OSL-3.0",
+      "AFL-3.0"
+    ],
+    "require": {
+      "php": "~8.2.0"
+    },
+    "autoload": {
+      "files": [ "registration.php" ],
+      "psr-4": {
+        "ProProfs\\Chat\\": ""
+      }
+    }
+  }

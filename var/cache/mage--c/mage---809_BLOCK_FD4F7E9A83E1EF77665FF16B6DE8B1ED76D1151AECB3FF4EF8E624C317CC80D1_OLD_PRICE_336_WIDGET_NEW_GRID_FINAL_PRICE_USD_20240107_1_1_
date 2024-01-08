@@ -1,0 +1,51 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1704643845;s:6:"expire";i:1704730245;s:4:"tags";s:145:"809_BLOCK_HTML,809_CAT_P_336,809_CAT_P,809_CAT_P_234,809_CAT_P_233,809_CAT_P_235,809_CAT_P_253,809_CAT_P_254,809_CAT_P_255,809_CAT_P_333,809_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="336" data-price-box="product-id-336">
+            <p class="price-from">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">From</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="10.26"
+        data-price-type="minPrice"
+        class="price-wrapper "
+    ><span class="price">$10.26</span></span>
+        </span>
+                            <span class="old-price">
+                    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="12"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$12.00</span></span>
+        </span>
+                </span>
+                    </p>
+        <p class="price-to">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">To</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="50.45"
+        data-price-type="maxPrice"
+        class="price-wrapper "
+    ><span class="price">$50.45</span></span>
+        </span>
+                            <span class="old-price">
+                    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-336-widget-new-grid"                data-price-amount="59"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$59.00</span></span>
+        </span>
+                </span>
+                    </p>
+    </div>

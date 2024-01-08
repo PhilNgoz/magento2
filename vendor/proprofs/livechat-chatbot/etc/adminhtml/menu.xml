@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+      <add id="ProProfs_Chat::greetings" title="ProProfs Chat" translate="title" module="ProProfs_Chat" parent="Magento_Backend::content" sortOrder="50" dependsOnModule="ProProfs_Chat" resource="ProProfs_Chat::greetings"/>
+      <add id="ProProfs_Chat::greetings_login" title="Login" translate="title" module="ProProfs_Chat" parent="ProProfs_Chat::greetings" sortOrder="10" dependsOnModule="ProProfs_Chat" action="Chat/login" resource="ProProfs_Chat::greetings"/>
+    </menu>
+</config>

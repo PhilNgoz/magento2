@@ -1,0 +1,162 @@
+ 
+ <?php
+$installed=0;
+if (strpos($_SERVER['REQUEST_URI'], 'ProProfsAccount') !== false) {
+    $installed=1;
+}
+ ?>
+ <style>
+ .FormLable{
+	 
+	text-align: left;
+    font-weight: bold;
+    font-size: 14px;
+	
+    margin-top: 10px;
+
+ }
+ .InputForm{
+	 padding: 13px 10px;
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #e1e1e1;
+ }
+ .submitbtn{
+	 width: 100%;
+    padding: 10px;
+    border: 1px solid #3c8ac9;
+    background: #3c8ac9;
+    color: #fff;
+    margin-top: 35px;
+	display: block;
+	border-radius:4px;
+ }
+  .submitbtn:hover{
+	 
+    color: #fff !important;
+   
+ }
+ .maindiv{
+	 margin: auto;
+    width: 35%;
+    border: 1px solid #eeeeee7d;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #eeeeee6e;
+  
+ }
+ .submitbtn:hover{
+	 background:#1676c3 !important;
+	 text-decoration:none;
+ }
+ .submitbtn1:hover{
+	
+	 text-decoration:none;
+ }
+ #Processing_div{
+	 text-align: left;
+    padding: 10px 0px;
+    color: #9a8c8c;
+ }
+ .errorbox{
+	 color: red;
+    text-align: left;
+    display: block;
+    padding: 5px 0px;
+	visibility:hidden;
+ }
+ </style>
+ <div id="suceespp" style="    text-align: center;    padding: 50px;margin:30px 0px;<?php if($installed==1){echo "display:block";}else {echo "display:none;";} ?>">
+ 	<img src="https://s01.live2support.com/dashboard/img/smile.png" />
+ <div style="font-size: 30px; padding: 30px;   text-align: center;">ProProfs Chat is installed sucessfully</div></div>
+ <div id="processpp" class="maindiv" style="<?php if($installed==0){echo "display:block";}else {echo "display:none;";} ?>">
+	<img src="https://s01.live2support.com/dashboard/img/chat-logo.png" />
+	<p style="font-size: 25px;    font-weight: bold;margin-top:20px;">Welcome To ProProfs Chat</p> 
+	<p style="    margin: 25px 0px;	margin-bottom: 50px;">Install Chat in Magento store using ProProfs Admin account</p>
+	<div class="FormLable">Email</div>
+	<input type="text" class="InputForm" id="email" onkeyup="hideerrorbox('emaillerror');"></input>
+	<span id="emaillerror" class="errorbox">Invalid Email</span>
+	<div class="FormLable">Password</div>
+	<input type="password" class="InputForm" id="password" onkeyup="hideerrorbox('Passworderror');"></input>
+	<span id="Passworderror" class="errorbox">Password Required</span>
+	<a href="javascript:SaveProProfsChat();" class="submitbtn" id="submitbtnpp">Login & Install Chat</a>
+	<div id="Processing_div"></div>
+
+ </div>
+
+<script>
+
+function SaveProProfsChat(){
+	document.getElementById("Processing_div").innerHTML='';
+	document.getElementById("emaillerror").style.visibility='hidden';
+	document.getElementById("Passworderror").style.visibility='hidden';
+	var email=document.getElementById("email").value;
+	var password=document.getElementById("password").value;
+	if(email=='')
+	{
+		document.getElementById("emaillerror").innerHTML='Email ID required';
+		document.getElementById("emaillerror").style.visibility='visible';
+		return false;
+	}
+	if(ValidateEmail(email)==false){
+		document.getElementById("emaillerror").innerHTML='Invalid email';
+		document.getElementById("emaillerror").style.visibility='visible';
+		return false;
+	}
+	
+	if(password=='')
+	{
+		document.getElementById("Passworderror").innerHTML='<div style="color:red;">Password required</div>';
+		document.getElementById("Passworderror").style.visibility='visible';
+		return false;
+	}
+	document.getElementById("submitbtnpp").style.pointerEvents="none";
+	document.getElementById("submitbtnpp").style.opacity="0.5";
+	document.getElementById("Processing_div").innerHTML='Processing...';
+	var xhr = new XMLHttpRequest();
+	var url = 'https://s01.live2support.com/dashboardv2/magento/';
+    xhr.open("POST", url, true);
+	xhr.onreadystatechange = function () {
+		if (this.readyState == 4 && this.status == 200) {
+				var responsedata=JSON.parse(this.responseText);
+				if(responsedata.status==1)
+				{
+					document.getElementById("Processing_div").innerHTML='Login Successfull. Installing Chat...';
+					window.location.href=window.location.href+'ProProfsAccount/'+responsedata.account;
+				}else if(responsedata.status==2){
+					document.getElementById("Processing_div").innerHTML='<div style="color:red;">Invalid login details</div>';
+					document.getElementById("submitbtnpp").style.pointerEvents="all";
+					document.getElementById("submitbtnpp").style.opacity="1";
+				}else{
+					
+					document.getElementById("Processing_div").innerHTML='<div style="color:red;">ProProfs Chat is already installed. Please contact <a href="javascript:__proprofs_onclick();" class="submitbtn1">ProProfs Support</a> for more help.</div>';
+					
+					document.getElementById("submitbtnpp").style.pointerEvents="all";
+					document.getElementById("submitbtnpp").style.opacity="1";
+				}
+			
+		}
+    }
+	var __proprofs_send_data_ = new FormData();
+	__proprofs_send_data_.append('email',email);
+	__proprofs_send_data_.append('password',password);
+			
+			
+	xhr.send(__proprofs_send_data_);
+ 
+}
+function ValidateEmail(email) 
+{
+ if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email))
+  {
+    return (true)
+  }
+    return (false)
+}
+
+function hideerrorbox(val){
+	document.getElementById(val).style.visibility='hidden';
+}   
+</script>
+<script>(function(){var pp=document.createElement('script'), ppr=document.getElementsByTagName('script')[0]; stid='1';pp.type='text/javascript'; pp.async=true; pp.src=('https:' == document.location.protocol ? 'https://' : 'http://') + 's01.live2support.com/dashboardv2/chatwindow/'; ppr.parentNode.insertBefore(pp, ppr);})();</script>
